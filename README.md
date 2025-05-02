@@ -8,7 +8,7 @@ The data has been generated and stored in `song_sentiments_emotions.csv`. But to
 
 ## Figure Generation
 
-...
+All the figures generated can be viewed in `makingGraphs.ipynb`. Some graphs required additional analysis; this can also be found in the same file.
 
 ## News Matching
 
