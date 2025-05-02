@@ -4,7 +4,7 @@ This repository generates song recommendations for articles based on both nltk s
 
 ## Data Generation
 
-The data has been generated and stored in `song_sentiments_emotions.csv`. But to generate the data we pulled song titles from a 10,000 song playlist on Spotify and then got each song's lyrics from Genius. We then preformed sentiment and emotional analysis on the song lyrics.
+The data has been generated and stored in `song_sentiments_emotions.csv`. But to generate the data we pulled song titles from a 10,000 song [playlist](https://open.spotify.com/playlist/4xHmVFfa1xBKaCBrefgVRv) on Spotify and then got each song's lyrics from Genius. We then preformed sentiment and emotional analysis on the song lyrics.
 
 ## Figure Generation
 
